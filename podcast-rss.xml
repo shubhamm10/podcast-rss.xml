@@ -20,13 +20,9 @@
 <![CDATA[ en ]]>
 </language>
 <itunes:owner>
-    <itunes:email>marketing@cloudeagle.ai</itunes:email>
+    <itunes:email>shubhamworkmail10@gmail.com</itunes:email>
+    <itunes:name>CloudEagle</itunes:name>
 </itunes:owner>
-<itunes:author>CloudEagle</itunes:author>
-<itunes:category text="Technology">
-    <itunes:category text="Podcasting"/>
-</itunes:category>
-<itunes:explicit>no</itunes:explicit>
 
 <!-- Add each episode -->
 <item>
@@ -48,7 +44,81 @@
     <media:statistics views="61"/>
 </item>
 
-<!-- Add other episodes similarly -->
+<item>
+    <title>
+    <![CDATA[ Ep5: Unveiling Shadow IT: Navigating Risks and Innovations in SaaS Management ]]>
+    </title>
+    <description>
+    <![CDATA[ <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/M6F5FYw8JEE" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> ]]>
+    </description>
+    <link>https://www.youtube.com/watch?v=M6F5FYw8JEE</link>
+    <guid isPermaLink="false">a70e883cce5830e7005d4c75db8288df</guid>
+    <dc:creator>
+    <![CDATA[ CloudEagle ]]>
+    </dc:creator>
+    <pubDate>Wed, 06 Dec 2023 16:45:02 GMT</pubDate>
+    <enclosure url="https://i2.ytimg.com/vi/M6F5FYw8JEE/hqdefault.jpg" length="0" type="image/jpeg"/>
+    <media:content medium="image" url="https://i2.ytimg.com/vi/M6F5FYw8JEE/hqdefault.jpg"/>
+    <media:starRating count="1" average="5" min="1" max="5"/>
+    <media:statistics views="19"/>
+</item>
+
+<item>
+    <title>
+    <![CDATA[ Ep4: Optimizing Spend and Vendor Relations in SaaS ]]>
+    </title>
+    <description>
+    <![CDATA[ <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/Md81ThKu0N8" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> ]]>
+    </description>
+    <link>https://www.youtube.com/watch?v=Md81ThKu0N8</link>
+    <guid isPermaLink="false">43a00e5dd320be5be2bac3d622fa2e46</guid>
+    <dc:creator>
+    <![CDATA[ CloudEagle ]]>
+    </dc:creator>
+    <pubDate>Wed, 25 Oct 2023 17:08:57 GMT</pubDate>
+    <enclosure url="https://i2.ytimg.com/vi/Md81ThKu0N8/hqdefault.jpg" length="0" type="image/jpeg"/>
+    <media:content medium="image" url="https://i2.ytimg.com/vi/Md81ThKu0N8/hqdefault.jpg"/>
+    <media:starRating count="2" average="5" min="1" max="5"/>
+    <media:statistics views="52"/>
+</item>
+
+<item>
+    <title>
+    <![CDATA[ Ep2: Insightful Outlook into Acquisition, Renegotiation and Team Collaboration with a Head of IT ]]>
+    </title>
+    <description>
+    <![CDATA[ <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/oIzlOwcwZNA" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> ]]>
+    </description>
+    <link>https://www.youtube.com/watch?v=oIzlOwcwZNA</link>
+    <guid isPermaLink="false">a1c62e8fdecf7f7c75d59e80b5af6f62</guid>
+    <dc:creator>
+    <![CDATA[ CloudEagle ]]>
+    </dc:creator>
+    <pubDate>Wed, 23 Aug 2023 13:28:03 GMT</pubDate>
+    <enclosure url="https://i4.ytimg.com/vi/oIzlOwcwZNA/hqdefault.jpg" length="0" type="image/jpeg"/>
+    <media:content medium="image" url="https://i4.ytimg.com/vi/oIzlOwcwZNA/hqdefault.jpg"/>
+    <media:starRating count="0" average="0" min="1" max="5"/>
+    <media:statistics views="47"/>
+</item>
+
+<item>
+    <title>
+    <![CDATA[ Ep1 - Mastering SaaS Procurement and Negotiation with Tipalti ]]>
+    </title>
+    <description>
+    <![CDATA[ <div><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/6FPgcAMoOjY" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowFullScreen scrolling="no" allow="encrypted-media"></iframe></div></div></div> ]]>
+    </description>
+    <link>https://www.youtube.com/watch?v=6FPgcAMoOjY</link>
+    <guid isPermaLink="false">35d0e38da3fb8cff455760c358ce4b53</guid>
+    <dc:creator>
+    <![CDATA[ CloudEagle ]]>
+    </dc:creator>
+    <pubDate>Thu, 22 Jun 2023 17:35:11 GMT</pubDate>
+    <enclosure url="https://i3.ytimg.com/vi/6FPgcAMoOjY/hqdefault.jpg" length="0" type="image/jpeg"/>
+    <media:content medium="image" url="https://i3.ytimg.com/vi/6FPgcAMoOjY/hqdefault.jpg"/>
+    <media:starRating count="6" average="5" min="1" max="5"/>
+    <media:statistics views="270"/>
+</item>
 
 </channel>
 </rss>
